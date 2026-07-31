@@ -17,10 +17,10 @@
 
 ## Datos
 
-- **Nombre:**
-- **Cédula:**
-- **NN (dos últimos dígitos):**
-- **Categoría asignada (según el último dígito):**
+- **Nombre:** Milena Michell Ibarra Díaz
+- **Cédula:** 1757660483
+- **NN (dos últimos dígitos):** 83
+- **Categoría asignada (según el último dígito):** Café
 
 ---
 

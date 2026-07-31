@@ -1,24 +1,10 @@
-# --- Maven ---
+HELP.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-# --- Gradle ---
-.gradle/
-build/
-!gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-# --- IntelliJ IDEA ---
-.idea/
-*.iws
-*.iml
-*.ipr
-out/
-
-# --- Eclipse / STS ---
+### STS ###
 .apt_generated
 .classpath
 .factorypath
@@ -26,15 +12,22 @@ out/
 .settings
 .springBeans
 .sts4-cache
-bin/
 
-# --- VS Code ---
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
 .vscode/
-
-# --- Sistema operativo ---
-.DS_Store
-Thumbs.db
-
-# --- Secretos: nunca subir claves reales ---
-*.env
-application-local.properties

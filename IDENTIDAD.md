@@ -56,10 +56,10 @@ se busca en una tabla.
 > incógnito antes de cerrar la entrega — si no abre sin tu sesión iniciada, equivale a no
 > haberlo entregado y C8 se califica en nivel 1.
 
-- **Enlace al video (5 min, cámara + pantalla):**
-- **Plataforma:**                  <!-- Drive institucional / OneDrive / YouTube no listado -->
-- **Acceso verificado en incógnito:**   ☐ Sí
-- **Duración real:**
+- **Enlace al video (5 min, cámara + pantalla):**   https://youtu.be/o7rqfk864XA 
+- **Plataforma:**    YouTube no listado
+- **Acceso verificado en incógnito:**   x Sí
+- **Duración real:** 6:39 min
 
 ---
 

@@ -6,7 +6,7 @@
 >
 > Completa **todos** los campos. El código del examen ya viene escrito: no lo cambies.
 
-- **Nombre completo: Milena Michell Ibarra Díaz
+- **Nombre completo:** Milena Michell Ibarra Díaz
 - **Cédula:** 1757660483
 - **NRC:** 30405
 - **Código del examen:** `AGSK-2026`
